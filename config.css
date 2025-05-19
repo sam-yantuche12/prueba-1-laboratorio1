@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 1430px;
+    height: 2590px;
+    top: -510px;
+    border: 3px solid black;
+    margin: 100px;
+    padding: 30px;
+    border-radius: -721px;
+    justify-content: center;
+    align-items: flex-start;
+
+
+}
+
